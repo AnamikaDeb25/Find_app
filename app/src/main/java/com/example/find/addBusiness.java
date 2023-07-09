@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.Toast;
-//fdgdssvkbjebfkej,gfj
+//fdgdssvkbjebfkej,
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
